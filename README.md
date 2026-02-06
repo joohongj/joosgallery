@@ -1,4 +1,4 @@
-# MEDP33100 Assignment: Online Shop
+# MEDP33100 Assignment: Online Store
 
 Design a fictional e-commerce webpage using responsive web design principles.
 
